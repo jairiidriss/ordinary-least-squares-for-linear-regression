@@ -3,4 +3,4 @@
 <p>
   Medium blogpost: https://medium.com/@jairiidriss/ordinary-least-squares-and-normal-equations-in-linear-regression-85af6ccc5bf5
 </p>
-<img src = './linear-regression-demo.jpg'>
+<img src = './linear-regression-demo.png'>
